@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Chart from "../charts/Chart";
+import Chart from "../charts/Chart.jsx";
 import axios from "axios";
 
 // Simple CSS spinner component
